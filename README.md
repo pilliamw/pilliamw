@@ -1,8 +1,8 @@
 # Hi there! :wave:
 ![](https://img.shields.io/badge/he/him-0099FF)
-![](https://raw.githubusercontent.com/smartynotchy/cf-stats/main/output/rating.svg)
-![](https://img.shields.io/github/followers/smartynotchy?color=blue&logo=github)
-![](https://komarev.com/ghpvc/?username=smartynotchy)
+![](https://raw.githubusercontent.com/pilliamw/cf-stats/main/output/rating.svg)
+![](https://img.shields.io/github/followers/pilliamw?color=blue&logo=github)
+![](https://komarev.com/ghpvc/?username=pilliamw)
 
 ## About Me
 Hi, I'm Pilliam! I'm a high school student, and I'm really passionate about working with computers and creating whatever I can dream of with them. I have a lot of experience with working on projects in multiple languages and maintaining professional applications, and I'm excited to continue to work with computers and create projects that anyone can enjoy.
