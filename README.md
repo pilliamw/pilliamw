@@ -1,28 +1,25 @@
 # Hi there! :wave:
-![](https://img.shields.io/badge/he/him-0099FF)
-![](https://raw.githubusercontent.com/pilliamw/cf-stats/main/output/rating.svg)
-![](https://img.shields.io/github/followers/pilliamw?color=blue&logo=github)
-![](https://komarev.com/ghpvc/?username=pilliamw)
 
 ## About Me
-Hi, I'm Pilliam! I'm a high school student, and I'm really passionate about working with computers and creating whatever I can dream of with them. I have a lot of experience with working on projects in multiple languages and maintaining professional applications, and I'm excited to continue to work with computers and create projects that anyone can enjoy.
+![](https://img.shields.io/badge/Pilliam-0099FF)
+![](https://img.shields.io/badge/he/him-0099FF)
+![](https://raw.githubusercontent.com/pilliamw/cf-stats/main/output/rating.svg)
+![](https://img.shields.io/badge/PHSCO-Next_Contest_Date:_TBD_\(October_2025\)-ffcd4d?labelColor=1b2534)
 
-## Currently Working On:
-- Rapidfire
-- Codeforces ELO Grind
-- Conrad Challenge (check out Soteria!)
-- Not Dying in SMCS
+I'm William Park, currently a high schooler at Poolesville HS, and I love creating algorithms and programs to solve unique and challenging problems. I usually go by Pilliam Wark, or just Pilliam for short. (Fun fact: there's a [disambiguation page](https://en.wikipedia.org/wiki/William_Park) for William Park on Wikipedia. Gotta stand out somehow! :P) 
+
+If you want to learn more about me, I have a lot more information listed on my [personal website](https://pilliamw.github.io).
+
+You can check out some of the really cool stuff I've worked on below :D
 
 ## Portfolio
-- [My Personal Website](https://smartynotchy.github.io)
-- [LunaSim](http://lunasim-karthik.s3-website.us-east-2.amazonaws.com/landing/homePage.html)
-- [Rapidfire](https://smartynotchy.github.io/Rapidfire/)
-- [PHS 10th Grade SMCS Schedule](https://smartynotchy.github.io/PHS-10th-SMCS-Blocking/)
-- [Presleyn](https://github.com/SmartyNotchy/Presleyn/releases/)
+- [PHS Computing Olympiad (PHSCO)](https://www.phsco.info/) - Poolesville HS's triannual programming competition
+- [Rapidfire](https://pilliamw.github.io/Rapidfire/) - A fast-paced flashcard-inspired review website to accelerate your learning. (APWH sets coming soon!)
+- [PHS 10th Grade SMCS Schedule](https://pilliamw.github.io/PHS-10th-SMCS-Blocking/) - An easier way to view my school's day-to-day schedule
+- [LunaSim](https://phs-smcs.github.io/LunaSim/landing/homePage.html) - An open-source, browser-based system dynamics software
+- [Presleyn](https://github.com/pilliamw/Presleyn/releases/) - A silly console-based RPG where you make (and lose) friends with the power of magic
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=smartynotchy&layout=compact&theme=dark&rank_icon=github&ring_color=33cc33)
+![](https://github-readme-stats.vercel.app/api?username=pilliamw&layout=compact&theme=dark&rank_icon=github&ring_color=33cc33)
 
-![](https://raw.githubusercontent.com/smartynotchy/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=smartynotchy&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pilliamw&layout=compact&theme=dark)
