@@ -19,6 +19,6 @@ You can check out some of the really cool stuff I've worked on below :D
 - [Presleyn](https://github.com/pilliamw/Presleyn/releases/) - A silly console-based RPG where you make (and lose) friends with the power of magic
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=pilliamw&layout=compact&theme=dark&rank_icon=github&ring_color=33cc33)
+![](https://github-readme-stats-fast.vercel.app/api?username=pilliamw&layout=compact&theme=dark&rank_icon=github&ring_color=33cc33)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pilliamw&layout=compact&theme=dark)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pilliamw&layout=compact&theme=dark)
