@@ -3,8 +3,7 @@
 ## About Me
 ![](https://img.shields.io/badge/Pilliam-0099FF)
 ![](https://img.shields.io/badge/he/him-0099FF)
-![](https://raw.githubusercontent.com/pilliamw/cf-stats/main/output/rating.svg)
-![](https://img.shields.io/badge/PHSCO-Next_Contest_Date:_October_25th_2025-ffcd4d?labelColor=1b2534)
+![](https://img.shields.io/badge/Codeforces_Peak_Rating:-1774-0000ff)
 
 I'm William Park, currently a high schooler at Poolesville HS, and I love creating algorithms and programs to solve unique and challenging problems. I usually go by Pilliam Wark, or just Pilliam for short. (Fun fact: there's a [disambiguation page](https://en.wikipedia.org/wiki/William_Park) for William Park on Wikipedia. Gotta stand out somehow! :P) 
 
